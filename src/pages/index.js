@@ -59,7 +59,7 @@ const IndexPage = ({ data }) => {
 
   return (
     <Box>
-      <SEO title="Brixton Local.Life" />
+      <SEO title="Ashford Local.Life" />
       <NavBar></NavBar>
       <Header></Header>
       <CategoryList items={Object.values(categories)} />
