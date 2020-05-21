@@ -34,7 +34,7 @@ const Tags = ({data}) => {
   
     return (
       <Box>
-        <SEO title="Categories page" />
+        <SEO title="Tags page" />
         <NavBar></NavBar>
         <div px={[16, 40]}>
         <TagMenu width="100%" items={tagMenuArray} />

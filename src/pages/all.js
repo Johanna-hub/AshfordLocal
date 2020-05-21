@@ -23,7 +23,7 @@ const All = ({data}) => {
  
     return (
       <Box>
-        <SEO title="Categories page" />
+        <SEO title="All entries page" />
         <NavBar></NavBar>
         <Box px={[16, 40]}>
         <NamesMenu width="100%" items={namesArray} />
